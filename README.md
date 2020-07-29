@@ -1,5 +1,6 @@
 # SQL-Project-Answering-Business-Questions
 we are using the Chinook database, is provided as a SQLite database file called chinook.db. 
+![chinook.db](https://s3.amazonaws.com/dq-content/191/chinook-schema.svg)
 We are going to use SQL queries to analyse the following:
 The best selling genre in USA
 Performance of the sales representative
